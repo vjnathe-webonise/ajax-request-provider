@@ -1,2 +1,3 @@
-# ajax-request-provider
+# Javascript ajax-request-provider
+
 Dependency: jquery
